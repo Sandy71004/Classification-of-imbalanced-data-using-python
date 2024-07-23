@@ -1,7 +1,3 @@
-Sure! Below is a sample GitHub README for a project focusing on classification on imbalanced data in the insurance industry.
-
----
-
 # Classification on Imbalanced Data: Insurance Claims Prediction
 
 Predicting the likelihood of insurance claims is crucial for risk assessment and policy pricing in the insurance industry. However, insurance claims datasets often exhibit class imbalance, where non-claims significantly outnumber actual claims. This imbalance can lead to predictive models biased towards the majority class, resulting in poor performance for the minority class, which is often of greater interest.
